@@ -1,7 +1,7 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce-wm-settings.desktop,sddm-config-editor.desktop,org.bleachbit.BleachBit.desktop,sublime_text.desktop,gpick.desktop,Alacritty.desktop,kdocker.desktop,xfce4-terminal-emulator.desktop,termite.desktop,guvcview.desktop
+recent=kdocker.desktop,spotify-adblock.desktop,xfce-wm-settings.desktop,pycharm.desktop,cmake-gui.desktop,kshutdown.desktop,gimp.desktop,gpick.desktop,org.inkscape.Inkscape.desktop,plank.desktop
 button-title=ArcoLinux
-button-icon=distributor-logo-arcolinux
+button-icon=distributor-logo-arco
 button-single-row=false
 show-button-title=true
 show-button-icon=true
