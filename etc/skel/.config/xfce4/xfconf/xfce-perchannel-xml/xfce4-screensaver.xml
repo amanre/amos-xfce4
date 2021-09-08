@@ -6,7 +6,7 @@
     <property name="fullscreen-inhibit" type="bool" value="true"/>
     <property name="enabled" type="bool" value="true"/>
     <property name="idle-activation" type="empty">
-      <property name="delay" type="int" value="2"/>
+      <property name="delay" type="int" value="30"/>
     </property>
     <property name="themes" type="empty">
       <property name="list" type="array">

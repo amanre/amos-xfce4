@@ -59,4 +59,5 @@
   <property name="primary-monitor" type="uint" value="0"/>
   <property name="theme" type="string" value="Bunsen-Dark-He"/>
   <property name="do-slideout" type="bool" value="true"/>
+  <property name="do-not-disturb" type="bool" value="false"/>
 </channel>
