@@ -2,9 +2,9 @@
 Encoding=UTF-8
 Version=0.9.4
 Type=Application
-Name=pywal-conky
+Name=wal
 Comment=
-Exec=/home/amanre/.conky/conky-pywal/start_conky.sh
+Exec=/usr/bin/wal.sh
 OnlyShowIn=XFCE;
 RunHook=0
 StartupNotify=false
