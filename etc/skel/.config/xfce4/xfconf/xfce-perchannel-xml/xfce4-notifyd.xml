@@ -6,6 +6,7 @@
       <value type="string" value="Build Axyl iso"/>
       <value type="string" value="discord"/>
       <value type="string" value="EndeavourOS Update Notifier"/>
+      <value type="string" value="FileZilla"/>
       <value type="string" value="KDocker"/>
       <value type="string" value="nm-applet"/>
       <value type="string" value="notify-send"/>
@@ -22,6 +23,7 @@
       <value type="string" value="Thunderbird"/>
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="Xfce4-notifyd settings"/>
+      <value type="string" value="xfce4-settings-helper"/>
     </property>
   </property>
   <property name="primary-monitor" type="uint" value="0"/>
