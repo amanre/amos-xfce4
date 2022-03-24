@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Astronaut
-Comment=Astronaut
-Exec=/usr/share/amos/styles/Astronaut.sh
+Name=14
+Comment=14
+Exec=/usr/share/amos/styles/14.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

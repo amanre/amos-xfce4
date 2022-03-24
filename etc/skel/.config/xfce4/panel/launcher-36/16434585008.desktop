@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Arch
-Comment=Arch
-Exec=/usr/share/amos/styles/Arch.sh
+Name=20
+Comment=20
+Exec=/usr/share/amos/styles/20.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

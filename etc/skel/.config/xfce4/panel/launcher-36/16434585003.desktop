@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Neoncity
-Comment=Neoncity
-Exec=/usr/share/amos/styles/Neoncity.sh
+Name=15
+Comment=15
+Exec=/usr/share/amos/styles/15.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

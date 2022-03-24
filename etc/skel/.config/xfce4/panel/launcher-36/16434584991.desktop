@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Darkknight
-Comment=Darkknight
-Exec=/usr/share/amos/styles/Darkknight.sh
+Name=3
+Comment=3
+Exec=/usr/share/amos/styles/3.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

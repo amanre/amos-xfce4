@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Mountain
-Comment=Mountain
-Exec=/usr/share/amos/styles/Mountain.sh
+Name=21
+Comment=21
+Exec=/usr/share/amos/styles/21.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

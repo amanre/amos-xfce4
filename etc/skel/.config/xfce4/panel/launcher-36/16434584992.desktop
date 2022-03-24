@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Reddune
-Comment=Reddune
-Exec=/usr/share/amos/styles/Reddune.sh
+Name=4
+Comment=4
+Exec=/usr/share/amos/styles/4.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

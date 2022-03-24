@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Lake
-Comment=Lake
-Exec=/usr/share/amos/styles/Lake.sh
+Name=17
+Comment=17
+Exec=/usr/share/amos/styles/17.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Beach
-Comment=Beach
-Exec=/usr/share/amos/styles/Beach.sh
+Name=6
+Comment=6
+Exec=/usr/share/amos/styles/6.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

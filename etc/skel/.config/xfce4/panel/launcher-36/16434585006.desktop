@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Rock
-Comment=Rock
-Exec=/usr/share/amos/styles/Rock.sh
+Name=18
+Comment=18
+Exec=/usr/share/amos/styles/18.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false

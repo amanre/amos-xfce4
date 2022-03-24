@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Default
-Comment=Default
-Exec=/usr/share/amos/styles/Default.sh
+Name=1
+Comment=1
+Exec=/usr/share/amos/styles/1.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
 Terminal=false
