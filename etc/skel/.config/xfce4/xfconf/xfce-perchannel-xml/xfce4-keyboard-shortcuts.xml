@@ -162,6 +162,7 @@
           <property name="&lt;Super&gt;KP_Home" type="empty"/>
           <property name="&lt;Super&gt;KP_End" type="empty"/>
           <property name="&lt;Super&gt;KP_Next" type="empty"/>
+          <property name="&lt;Super&gt;q" type="string" value="close_window_key"/>
         </property>
         <property name="custom" type="empty">
           <property name="Up" type="string" value="up_key"/>
