@@ -1,6 +1,6 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,sddm-config-editor.desktop,gpick.desktop
 recent=arandr.desktop,sddm-config-editor.desktop,xfce-wm-settings.desktop,gpick.desktop,kdocker.desktop,thunar-bulk-rename.desktop,filezilla.desktop,grsync.desktop
-button-title=ArcoLinux\ \
+button-title=ArcoLinux
 button-icon=start-here-arcolinux
 button-single-row=false
 show-button-title=true
