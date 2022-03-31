@@ -77,6 +77,7 @@
       <property name="hide-new-items" type="bool" value="false"/>
       <property name="icon-size" type="int" value="16"/>
       <property name="known-items" type="array">
+        <value type="string" value="vlc"/>
         <value type="string" value="Skype1"/>
         <value type="string" value="TelegramDesktop"/>
         <value type="string" value="steam"/>
@@ -126,18 +127,19 @@
         <property name="name" type="string" value="Döhren, Döhren-Wülfel"/>
       </property>
       <property name="msl" type="int" value="62"/>
-      <property name="offset" type="string" value="+01:00"/>
+      <property name="offset" type="string" value="+02:00"/>
       <property name="power-saving" type="bool" value="true"/>
       <property name="round" type="bool" value="true"/>
       <property name="scrollbox" type="empty">
         <property name="animate" type="bool" value="true"/>
-        <property name="color" type="string" value="rgb(153,33,123)"/>
+        <property name="color" type="string" value="rgb(255,255,255)"/>
         <property name="lines" type="int" value="1"/>
         <property name="show" type="bool" value="true"/>
         <property name="use-color" type="bool" value="true"/>
+        <property name="font" type="string" value="Sans 10"/>
       </property>
-      <property name="single-row" type="bool" value="true"/>
-      <property name="theme-dir" type="string" value="/usr/share/xfce4/weather/icons/liquid"/>
+      <property name="single-row" type="bool" value="false"/>
+      <property name="theme-dir" type="string" value="/usr/share/xfce4/weather/icons/simplistic"/>
       <property name="timezone" type="string" value="Europe/Berlin"/>
       <property name="tooltip-style" type="int" value="1"/>
       <property name="units" type="empty">
@@ -249,6 +251,7 @@
       <property name="disable-tooltips" type="bool" value="false"/>
       <property name="show-label" type="bool" value="true"/>
       <property name="move-first" type="bool" value="true"/>
+      <property name="arrow-position" type="uint" value="0"/>
     </property>
     <property name="plugin-4" type="string" value="tasklist">
       <property name="flat-buttons" type="bool" value="true"/>
@@ -274,7 +277,7 @@
     </property>
     <property name="plugin-7" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance10033;chromium.instance10752;chromium.instance110163;chromium.instance110751;chromium.instance11106;chromium.instance111339;chromium.instance118013;chromium.instance11826;chromium.instance11912;chromium.instance126125;chromium.instance142283;chromium.instance14318;chromium.instance14624;chromium.instance1711;chromium.instance1791;chromium.instance1865;chromium.instance192147;chromium.instance1939;chromium.instance209611;chromium.instance2131;chromium.instance2138;chromium.instance21453;chromium.instance2152;chromium.instance218912;chromium.instance2196;chromium.instance2316;chromium.instance2326;chromium.instance23952;chromium.instance2547;chromium.instance2549;chromium.instance26203;chromium.instance26297;chromium.instance27091;chromium.instance27612;chromium.instance27761;chromium.instance28796;chromium.instance29742;chromium.instance30010;chromium.instance30079;chromium.instance31042;chromium.instance31487;chromium.instance31785;chromium.instance43129;chromium.instance44221;chromium.instance44463;chromium.instance4486;chromium.instance4529;chromium.instance4543;chromium.instance5488;chromium.instance5536;chromium.instance55572;chromium.instance57052;chromium.instance59112;chromium.instance61385;chromium.instance62279;chromium.instance66616;chromium.instance69929;chromium.instance71640;chromium.instance9360;chromium.instance98638;chromium.instance99633;pragha;smplayer;spotify"/>
+      <property name="mpris-players" type="string" value="chromium.instance10033;chromium.instance100550;chromium.instance10752;chromium.instance110163;chromium.instance110751;chromium.instance11106;chromium.instance111339;chromium.instance113098;chromium.instance118013;chromium.instance11826;chromium.instance11912;chromium.instance126125;chromium.instance134998;chromium.instance142283;chromium.instance14318;chromium.instance14624;chromium.instance167876;chromium.instance1711;chromium.instance1791;chromium.instance1865;chromium.instance192147;chromium.instance1939;chromium.instance209611;chromium.instance2131;chromium.instance2138;chromium.instance21453;chromium.instance2152;chromium.instance218912;chromium.instance2196;chromium.instance2316;chromium.instance2326;chromium.instance23952;chromium.instance2547;chromium.instance2549;chromium.instance26203;chromium.instance26297;chromium.instance27091;chromium.instance27612;chromium.instance27761;chromium.instance28796;chromium.instance29742;chromium.instance30010;chromium.instance30079;chromium.instance31042;chromium.instance31487;chromium.instance31785;chromium.instance43129;chromium.instance44221;chromium.instance44463;chromium.instance4486;chromium.instance4529;chromium.instance4543;chromium.instance51775;chromium.instance5488;chromium.instance5536;chromium.instance55572;chromium.instance57052;chromium.instance59112;chromium.instance61385;chromium.instance62279;chromium.instance66616;chromium.instance69929;chromium.instance71640;chromium.instance9360;chromium.instance98638;chromium.instance99633;pragha;smplayer;spotify;vlc"/>
       <property name="show-frame" type="bool" value="false"/>
       <property name="show-notifications" type="bool" value="true"/>
       <property name="size-max" type="uint" value="16"/>
