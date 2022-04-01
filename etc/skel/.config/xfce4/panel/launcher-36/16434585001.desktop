@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=13
-Comment=13
+Comment=
 Exec=/usr/share/amos/styles/13.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
