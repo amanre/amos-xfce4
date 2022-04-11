@@ -1,7 +1,7 @@
 favorites=arcolinux-welcome-app.desktop,arcolinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,xfce4-terminal.desktop,conkyzen.desktop
 recent=arcolinux-tweak-tool.desktop,conkyzen.desktop,droidcam.desktop
-button-title=Amos 
-button-icon=/usr/share/pixmaps/logo.png
+button-title=ArcoLinux 
+button-icon=/usr/share/pixmaps/arcolinux.png
 button-single-row=false
 show-button-title=true
 show-button-icon=true
