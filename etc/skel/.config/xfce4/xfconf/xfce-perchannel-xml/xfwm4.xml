@@ -80,11 +80,11 @@
     <property name="wrap_workspaces" type="bool" value="false"/>
     <property name="zoom_desktop" type="bool" value="true"/>
     <property name="workspace_names" type="array">
-      <value type="string" value="  "/>
-      <value type="string" value="  "/>
+      <value type="string" value="  露"/>
+      <value type="string" value="  "/>
       <value type="string" value="  "/>
-      <value type="string" value="  "/>
-      <value type="string" value="  "/>
+      <value type="string" value="  "/>
+      <value type="string" value="  "/>
     </property>
     <property name="cycle_minimized" type="bool" value="false"/>
     <property name="zoom_pointer" type="bool" value="true"/>
