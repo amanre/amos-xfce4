@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,gpick.desktop
-recent=org.xfce.PanelProfiles.desktop,com.usebottles.bottles.desktop,steam-native.desktop,proton-community-updater.desktop,xfce-wm-settings.desktop,gpick.desktop,kdocker.desktop,thunar-bulk-rename.desktop,filezilla.desktop,grsync.desktop
+recent=xfce-wm-settings.desktop,org.xfce.PanelProfiles.desktop,com.usebottles.bottles.desktop,proton-community-updater.desktop,gpick.desktop,kdocker.desktop,thunar-bulk-rename.desktop,filezilla.desktop,grsync.desktop
 button-title=ArcoCustom
 button-icon=/usr/share/pixmaps/faces/arcolinux-white.png
 button-single-row=false
