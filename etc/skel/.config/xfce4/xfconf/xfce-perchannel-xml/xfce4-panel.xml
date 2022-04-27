@@ -48,7 +48,6 @@
         <value type="int" value="9"/>
         <value type="int" value="22"/>
         <value type="int" value="35"/>
-    
         <value type="int" value="3"/>
         <value type="int" value="36"/>
         <value type="int" value="7"/>
@@ -270,6 +269,7 @@
         <value type="string" value="164345850035.desktop"/>
         <value type="string" value="164345850036.desktop"/>
         <value type="string" value="164345850037.desktop"/>
+        <value type="string" value="164345850038.desktop"/>
       </property>
       <property name="disable-tooltips" type="bool" value="false"/>
       <property name="show-label" type="bool" value="false"/>
