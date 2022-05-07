@@ -37,5 +37,5 @@ MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
 BackgroundDarkness=1,000000
-FontUseSystem=FALSE
+FontUseSystem=TRUE
 
