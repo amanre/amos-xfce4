@@ -67,7 +67,7 @@
       <property name="&lt;Super&gt;v" type="string" value="pavucontrol"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;u" type="string" value="pavucontrol"/>
       <property name="&lt;Super&gt;Escape" type="string" value="xkill"/>
-      <property name="&lt;Super&gt;Return" type="string" value="alacritty"/>
+      <property name="&lt;Super&gt;Return" type="string" value="xfce4-terminal"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;Return" type="string" value="thunar"/>
       <property name="&lt;Super&gt;F1" type="string" value="exo-open --launch webbrowser"/>
       <property name="&lt;Super&gt;F2" type="string" value="atom"/>
@@ -89,7 +89,7 @@
       <property name="XF86AudioStop" type="string" value="playerctl pause"/>
       <property name="XF86AudioPrev" type="string" value="playerctl previous"/>
       <property name="XF86AudioNext" type="string" value="playerctl next"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;Return" type="string" value="alacritty"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;Return" type="string" value="xfce4-terminal"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;r" type="string" value="rofi-theme-selector"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;p" type="string" value="pamac-manager"/>
       <property name="&lt;Super&gt;c" type="string" value="conky-toggle"/>
