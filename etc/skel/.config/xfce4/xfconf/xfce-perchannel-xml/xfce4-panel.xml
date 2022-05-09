@@ -274,6 +274,7 @@
         <value type="string" value="164345850040.desktop"/>
         <value type="string" value="164345850041.desktop"/>
         <value type="string" value="164345850042.desktop"/>
+        <value type="string" value="164345850043.desktop"/>
     </property>
       <property name="disable-tooltips" type="bool" value="false"/>
       <property name="show-label" type="bool" value="false"/>
