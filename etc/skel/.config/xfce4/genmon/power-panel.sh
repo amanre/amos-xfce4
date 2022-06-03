@@ -14,9 +14,9 @@ readonly ICON="${DIR}/icons/power/power.png"
 # Panel
 if [[ $(file -b "${ICON}") =~ PNG|SVG ]]; then
   INFO="<img>${ICON}</img>"
-  INFO+="<click>archlinux-logout</click>"
+  INFO+="<click>xfce4-session-logout</click>"
 else
-  INFO+="<click>archlinux-logout</click>"
+  INFO+="<click>xfce4-session-logout</click>"
 fi
 
 # Tooltip
