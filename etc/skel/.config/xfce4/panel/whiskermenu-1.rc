@@ -1,14 +1,14 @@
 favorites=firefox.desktop,eos-quickstart.desktop,xfce4-terminal.desktop,org.xfce.Parole.desktop,galculator.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop,eos-log-tool.desktop,welcome.desktop
 recent=xfce4-mime-settings.desktop,geany.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce4-terminal.desktop
-button-title=EndeavourOS\ \ 
-button-icon=/usr/share/endeavouros/EndeavourOS-icon.png
+button-title=AmOs\ \ 
+button-icon=/usr/share/pixmaps/logo.png
 button-single-row=false
 show-button-title=true
 show-button-icon=true
 launcher-show-name=true
 launcher-show-description=false
 launcher-show-tooltip=true
-launcher-icon-size=3
+launcher-icon-size=4
 hover-switch-category=true
 category-show-name=true
 category-icon-size=2
