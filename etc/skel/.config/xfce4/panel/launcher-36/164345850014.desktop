@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=26
-Comment=
+Name=026
+Comment=026
 Exec=/usr/share/amos/styles/26.sh
 Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
 Path=
