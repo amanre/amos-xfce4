@@ -1,5 +1,5 @@
-favorites=firefox.desktop,eos-quickstart.desktop,xfce4-terminal.desktop,org.xfce.Parole.desktop,galculator.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop,eos-log-tool.desktop,welcome.desktop
-recent=xfce4-mime-settings.desktop,geany.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce4-terminal.desktop
+favorites=firefox.desktop,xfce4-terminal.desktop,galculator.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop,archlinux-tweak-tool.desktop
+recent=xfce-keyboard-settings.desktop,filezilla.desktop,plank.desktop,archlinux-tweak-tool.desktop,gufw.desktop,gimp.desktop,xfce4-mime-settings.desktop,geany.desktop,thunar.desktop,xfce4-taskmanager.desktop
 button-title=AmOs\ \ 
 button-icon=/usr/share/pixmaps/logo.png
 button-single-row=false
