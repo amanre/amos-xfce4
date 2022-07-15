@@ -1,6 +1,6 @@
 favorites=firefox.desktop,xfce4-terminal.desktop,galculator.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop,archlinux-tweak-tool.desktop
 recent=xfce-keyboard-settings.desktop,filezilla.desktop,plank.desktop,archlinux-tweak-tool.desktop,gufw.desktop,gimp.desktop,xfce4-mime-settings.desktop,geany.desktop,thunar.desktop,xfce4-taskmanager.desktop
-button-title=AmOs\ \ 
+button-title=Linux\ \ 
 button-icon=/usr/share/pixmaps/logo.png
 button-single-row=false
 show-button-title=true
